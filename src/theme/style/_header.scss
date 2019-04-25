@@ -1,0 +1,15 @@
+.main-page-header {
+  background-color: #C21000;
+  .icon-column{
+    margin-top: auto !important;
+    margin-bottom:auto !important;
+  }
+  .ui.grid {
+    .row {
+      padding-bottom: 0;
+    }
+  }
+  .logo{
+    width: 80px;
+  }
+}
